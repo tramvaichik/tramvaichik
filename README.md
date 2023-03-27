@@ -7,7 +7,7 @@
 Я люблю и умею тестировать всё - от трамвая до ПО. Закончила курсы QA Engineer от Хекслета. Умею составлять тест-кейсы, чек-листы и баг-репорты. Есть опыт работы в команде. Так же есть несколько проектов в разработке. Я усидчива и внимательна.
 
 ## Моё резюме
-Подробное [резюме](https://drive.google.com/file/d/16h8n9YmJPgx9isFIcvtMJRJDCJwy5dfh/view?usp=sharing)
+Подробное [резюме](https://drive.google.com/file/d/1HkW8woPrXs3hWFQGLdlhkaRPTAZJBN4L/view?usp=sharing)
 
 ## Портфолио
 
