@@ -2,31 +2,33 @@
 
 <img align="center" src="https://github.com/tramvaichik/tramvaichik/blob/main/squirrel.jpg" width="300">
 
-## Меня зовут [Дина](https://www.linkedin.com/in/arsee/) 
+## Меня зовут [Дина](https://www.linkedin.com/in/dina-gurinova-618161279/)
   
-Я люблю и умею тестировать всё - от трамвая до ПО. Закончила курсы QA Engineer от Хекслета. Умею составлять тест-кейсы, чек-листы и баг-репорты. Есть опыт работы в команде. Так же есть несколько проектов в разработке. Я усидчива и внимательна.
 
-## Моё резюме
-Подробное [резюме](https://drive.google.com/file/d/1HkW8woPrXs3hWFQGLdlhkaRPTAZJBN4L/view?usp=sharing)
+
+## Моё [резюме](https://drive.google.com/file/d/1ly2EfyLEkHommrKcPw08adi7mkqjAVbw/view?usp=sharing)
+
 
 ## Портфолио
 
-* **Тестовая документация**
-    * Требования
-        * [Интеренет-магазин](https://github.com/tramvaichik/qa-engineer-project-84/blob/main/requirements.yml)
-        * [Codebattle](https://github.com/tramvaichik/qa-engineer-project-85/blob/main/requirements.yml)
-    * Тест-кейсы
-        * [Интеренет-магазин](https://github.com/tramvaichik/qa-engineer-project-84/blob/main/test-cases.yml)
-        * [Codebattle](https://github.com/tramvaichik/qa-engineer-project-85/blob/main/test-cases.yml)
-    * Баг-репорты
-        * [Интеренет-магазин](https://github.com/tramvaichik/qa-engineer-project-84/blob/main/bugreports.yml)
- 
- * **Опыт в разработке**
-  
-   * [Интернет-магазин мебели](https://github.com/OlesiaVovk/Furniture_Shop-JS-Project)
-   * [Консалтинговое агенство](https://github.com/itgirlschool/f2_team1_project2)
-   * [Визитка для фотографа](https://tramvaichik.github.io/Reiter-photo/)
-   * [Игра](https://tramvaichik.github.io/games-project/index.html)
+- Проведение UX/UI тестирования с использованием методологий юзабилити и эстетического дизайна.
+
+- Разработка тест-кейсов по методикам тест-дизайна, включая классы эквивалентности, граничные значения и попарное тестирование, с использованием TestRail.
+
+- Опыт ручного тестирования, включая функциональное, смоук-тестирование, регрессионное тестирование и тестирование юзабилити, для обеспечения стабильности и эффективности продукта.
+
+- Постановка и отслеживание дефектов в Jira, улучшение качества продукта через систематическую работу по их устранению.
+
+- Профессиональное знание и практический опыт White/Black/Grey Box-тестирования, обеспечивающих тщательную проверку как внешних, так и внутренних аспектов ПО.
+
+- Проведение API тестирования с использованием инструментов, таких как Postman и Swagger, для проверки совместимости, производительности и безопасности.
+
+- Использование SQL на уровне создания базовых запросов для извлечения и анализа данных из БД, помогающих в проведении тестирования и выявлении ошибок.
+
+- Создание подробных отчетов о тестировании, включая результаты, обнаруженные ошибки и предложения по их исправлению.
+
+
+
  
   ## Инструменты и технологии
    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -42,5 +44,5 @@
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    
    ## Мои контакты
-   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsee/)
+   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arsee/](https://www.linkedin.com/in/dina-gurinova-618161279/))
    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Drakoshk)
